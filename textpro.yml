@@ -283,5 +283,4 @@ dependencies:
     - requests-toolbelt==0.9.1
     - textblob==0.15.2
     - udacity-pa==0.2.8
-prefix: C:\Users\Florence\Anaconda333
 
