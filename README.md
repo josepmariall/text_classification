@@ -4,7 +4,7 @@ Dataset consists of over 18,000 documents, each one of them can have multiple la
 
 ## Table of Contents 
 The following jupyter notebooks are provided:
-1. [Data Exploration and Visualizations](https://github.com/titoniubo/text_classification/blob/master/3.%20Creating%20and%20Training%20a%20model.ipynb
+1. [Data Exploration and Visualizations](https://github.com/titoniubo/text_classification/blob/master/1.%20Data%20exploration%20and%20Visualizations.ipynb)
 2. [Data Processing]
 3. [Creating and Training a model](https://github.com/titoniubo/text_classification/blob/master/3.%20Creating%20and%20Training%20a%20model.ipynb)
 
