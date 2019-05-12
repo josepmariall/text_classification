@@ -1,6 +1,7 @@
-<img src='assets/model.png' width=100% />
 
 # Document Classification (text)
+<img src='https://github.com/titoniubo/text_classification/blob/master/textpic_education.JPG' width=100% height=50% />
+
 This project classifies documents according to multiple labels.
 Dataset consists of the 6 first pages of over 18,000 documents, and the way each document has been indexed (labelled). Each document can have multiple labels. In total, there's up to 29 different labels. 
 
