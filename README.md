@@ -12,10 +12,10 @@ File 1 prepares data for both modeling and visualizations, creating 2 different 
 
 ### Code of ethics
 
-This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/poverty_and_heart_disease/blob/master/Code%20of%20ethics.txt) 
+This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/text_classification/blob/master/Code%20of%20ethics.txt) 
 
 ### Install
-I provide the [environment](https://github.com/titoniubo/poverty_and_heart_disease/blob/master/environment.yml) used to run this code.
+I provide the [environment](https://github.com/titoniubo/text_classification/blob/master/environment.yml) used to run this code.
 
 ### License
-This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/poverty_and_heart_disease/blob/master/License.txt) file
+This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/text_classification/blob/master/License.txt) file
