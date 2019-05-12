@@ -4,9 +4,9 @@ Dataset consists of over 18,000 documents, each one of them can have multiple la
 
 ## Table of Contents 
 The following jupyter notebooks are provided:
-1. Data Preparation
-2. Algorithm Selection and Fine Tunning
-3. Data Visualization
+1. [Data Exploration and Visualizations](https://github.com/titoniubo/text_classification/blob/master/3.%20Creating%20and%20Training%20a%20model.ipynb
+2. [Data Processing]
+3. [Creating and Training a model](https://github.com/titoniubo/text_classification/blob/master/3.%20Creating%20and%20Training%20a%20model.ipynb)
 
 File 1 prepares data for both modeling and visualizations, creating 2 different files one for each purpose.
 
