@@ -5,6 +5,8 @@
 This project classifies documents according to multiple labels.
 Dataset consists of the 6 first pages of over 18,000 documents, and the way each document has been indexed (labelled). Each document can have multiple labels. In total, there's up to 29 different labels. 
 
+Documents are from an International Organization.
+
 ## Table of Contents 
 The following jupyter notebooks are provided:
 1. [Data Exploration and Visualizations](https://github.com/titoniubo/text_classification/blob/master/1.%20Data%20exploration%20and%20Visualizations.ipynb)
