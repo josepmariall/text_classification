@@ -1,6 +1,6 @@
 # Document Classification (text)
 This project classifies documents according to multiple labels.
-Dataset consists of over 18,000 documents, each one of them can have multiple labels. In total, there's up to 29 different labels. 
+Dataset consists of the 6 first pages of over 18,000 documents, and the way each document has been indexed (labelled). Each document can have multiple labels. In total, there's up to 29 different labels. 
 
 ## Table of Contents 
 The following jupyter notebooks are provided:
